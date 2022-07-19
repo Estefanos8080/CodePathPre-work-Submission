@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodePathHelloWorldSDK</string>
+    <string name="intro_xml">Hello World! My name is Estefanos and this is my third andriod app.</string>
+    <string name="test_button">click here to see the info</string>
+</resources>
